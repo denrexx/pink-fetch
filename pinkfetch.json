@@ -1,0 +1,20 @@
+{
+  "color_rgb": [255, 182, 193],
+  "label_width": 10,
+  "separator": " • ",
+  "items": [
+    ["OS", "os"],
+    ["Host", "host"],
+    ["Kernel", "kernel"],
+    ["Uptime", "uptime"],
+    ["Packages", "packages"],
+    ["Shell", "shell"],
+    ["Terminal", "terminal"],
+    ["WM/DE", "wm"],
+    ["CPU", "cpu"],
+    ["GPU", "gpu"],
+    ["RAM", "ram"],
+    ["Disk", "disk"],
+    ["IP", "ip"]
+  ]
+}
